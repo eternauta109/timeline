@@ -1,0 +1,32 @@
+.caontainerWard {
+  background-color: rgb(236, 231, 231);
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+.addTimeLine {
+  margin-top: 10px;
+}
+
+.inputWard {
+  padding-top: 0px;
+  margin-top: 10px;
+}
+
+.list-group {
+  list-style-type: none;
+}
+
+.btn-add-timeline {
+  width: 60%;
+  font-size: 1.8vmin;
+}
+
+.timer {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(196, 196, 196);
+}

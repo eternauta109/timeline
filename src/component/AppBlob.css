@@ -1,0 +1,10 @@
+.ward-container {
+  border: solid 1px black;
+  margin-top: 10px;
+}
+
+.bodyApp {
+  background-color: green;
+
+  border-radius: 5px;
+}
